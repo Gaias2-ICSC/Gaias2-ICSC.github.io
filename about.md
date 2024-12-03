@@ -2,6 +2,8 @@
 
 GAIAS2 is an acronym for "Generative Artificial Intelligence for Air Shower Simulation"
 
+The aim of the project is to study the usage of Generative Adversarial Networks to produce simulations of cosmic ray air showers
+
 ## Activities
 
 GAIAS2 is subdivided into 4 activities
@@ -12,3 +14,7 @@ GAIAS2 is subdivided into 4 activities
 - D) Generation of cosmic ray air showers with Generative Adversarial Networks, and comparison with benchmark simulations: click <a href="gangen"> here </a>
 
 ## Resources
+
+- CORSIKA: https://www.iap.kit.edu/corsika/
+
+## License
