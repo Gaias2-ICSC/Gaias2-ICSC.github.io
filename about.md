@@ -15,12 +15,12 @@ GAIAS2 is subdivided into 4 activities
 
 ## Resources
 
-- CORSIKA: <a href="https://www.iap.kit.edu/corsika/" https://www.iap.kit.edu/corsika/ </a>
+- CORSIKA: <a href="https://www.iap.kit.edu/corsika/"> https://www.iap.kit.edu/corsika/ </a>
 
 ## Codes
 
-- github organisation page: <a href="https://github.com/Gaias2-ICSC" https://github.com/Gaias2-ICSC </a> 
-- CORSIKA simulations repository: <a href="https://github.com/Gaias2-ICSC/corsikasim" https://github.com/Gaias2-ICSC/corsikasim </a>
+- github organisation page: <a href="https://github.com/Gaias2-ICSC"> https://github.com/Gaias2-ICSC </a> 
+- CORSIKA simulations repository: <a href="https://github.com/Gaias2-ICSC/corsikasim"> https://github.com/Gaias2-ICSC/corsikasim </a>
 
 ## License
 
