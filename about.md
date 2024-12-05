@@ -24,4 +24,3 @@ GAIAS2 is subdivided into 4 activities
 
 ## License
 
-
