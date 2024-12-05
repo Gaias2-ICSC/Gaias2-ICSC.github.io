@@ -17,10 +17,12 @@ GAIAS2 is subdivided into 4 activities
 
 - CORSIKA: <a href="https://www.iap.kit.edu/corsika/"> https://www.iap.kit.edu/corsika/ </a>
 
-## Codes
+## Software
 
 - **GAIAS2** github organisation page: <a href="https://github.com/Gaias2-ICSC"> https://github.com/Gaias2-ICSC </a> 
 - **GAIAS2** CORSIKA simulations repository: <a href="https://github.com/Gaias2-ICSC/corsikasim"> https://github.com/Gaias2-ICSC/corsikasim </a>
+
+To learn more about the software click <a href="codes"> here </a>
 
 ## License
 
