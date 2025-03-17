@@ -28,5 +28,5 @@ The results from the preliminary set of benchmark simulations setup are availabl
 
 ### Deliverable A
 
-The first deliverable of the GAIAS2 project consists of a benchmark set of cosmic ray Monte Carlo simulations on which generative AIs can be trained and tested. The details on this deliverable are reported <a href = "benchsim/deliverable> here </a>.
+The first deliverable of the GAIAS2 project consists of a benchmark set of cosmic ray Monte Carlo simulations on which generative AIs can be trained and tested. The details on this deliverable are reported <a href = "benchsim/deliverable"> here </a>.
 
