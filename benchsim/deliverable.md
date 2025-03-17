@@ -1,8 +1,8 @@
 # Deliverable A
 
-Using the same containers that have been tested in the first test productions, described <a href = "testprod"> here </a>, the first deliverable consists of high-statistics simulations of proton cosmic rays.
+Using the same CORSIKA7 containers that have been tested in the first test productions, described <a href = "testprod"> here </a>, the first deliverable of the GAIAS2 consists of a set of high-statistics simulations of proton cosmic rays.
 
-10 energy ranges are available:
+10 energy ranges have been made available:
 
 1. 1 - 10 TeV
 2. 10 - 100 TeV

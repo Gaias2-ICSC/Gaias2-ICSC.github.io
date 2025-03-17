@@ -1,6 +1,6 @@
 # Simulation benchmarks
 
-CORSIKA is the state-of-the-art software for the simulation of cosmic ray air showers. As such, it can be considered a benchmarks to evaluate the performance of other cosmic ray simulations, both for what concerns resource usage and the physics output.
+CORSIKA is the state-of-the-art software for the simulation of cosmic ray air showers. As such, it can be considered a benchmarks to evaluate the performance of other cosmic ray simulations, both for what concerns resource usage and the physics output. Given its wide usage, version 7 of the CORSIKA software is considered the current golden standard, and will be used in this context.
 
 ## Properties of cosmic ray air showers
 
