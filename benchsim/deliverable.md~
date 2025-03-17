@@ -6,13 +6,15 @@ CORSIKA is the state-of-the-art software for the simulation of cosmic ray air sh
 
 ### Primary cosmic rays
 
-The yield in particles out of the interaction of a primary cosmic rays depends on its mass. Even though most cosmic rays are protons, the composition of the cosmic ray flux changes significantly all through the spectrum, and thus different primary species must be considered. 5 species are chose to allow for a characterisation on the primary CR spectrum:
+The yield in particles out of the interaction of a primary cosmic rays depends on its mass. Even though most cosmic rays are protons, the composition of the cosmic ray flux changes significantly all through the spectrum, and thus different primary species must be considered. 5 species are usually chosen to allow for a characterisation on the primary CR spectrum:
 
 - Protons
 - Helium
 - Carbon
 - Silicon
 - Iron
+
+For the benchmark configuration, we limited the simulations to protons.
 
 ### Hadronic interaction models
 
@@ -47,3 +49,7 @@ The energy spectrum of choice is a power law, with spectral index -1
 - Horizontal (H): 60 - 90 degrees
 
 Generation is flat in the cosine of the zenith angle
+
+#### Performance checks
+
+The results of the performance checks are available on <a href="https://github.com/Gaias2-ICSC/corsikasim/tree/main/perf"> git </a>
