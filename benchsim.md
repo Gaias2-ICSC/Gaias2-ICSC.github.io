@@ -19,5 +19,14 @@ Two main observable are usually defined:
 - The number of muons reaching the ground, which is proportional to the energy and the mass-number of the incoming cosmic ray
 
 
+## Generation of cosmic ray showers
+
+Following the strategy employed in the CONCORDIA project (WP3 of the ESCAPE initiative), singularity containers with CORSIKA7 have been prepared, together with a set of scripts to run them on a batch system (slurm). All the codes and the container recipes are available on <a href="https://github.com/Gaias2-ICSC/corsikasim/"> github </a>.
+
+### Preliminary benchmark
+
+The results from the preliminary set of benchmark simulations setup are available <a href="benchsim/testprod"> here </a>.
+
+### Deliverable A
 
 
