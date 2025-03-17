@@ -19,3 +19,7 @@ followed by the required options (such as the energy range, the hadronic model o
 ### CORSIKA8 productions
 
 A simplified setup has been used, with monocromatic generation of protons of 1, 10 and 100 PeV along the vertical direction. 2000 events have been produced in each simulation setup (run on the servers at the G. Romano Laboratory of the Department of Physics of the University of Salerno).
+
+### Deliverable B
+
+The second deliverable of the GAIAS2 project consists of sanity checks of CORSIKA8 productions in comparison with the standard CORSIKA7 productions. The results are provided in the <a href="simcomp/deliverable">deliverable</a> of this activity.
