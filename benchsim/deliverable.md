@@ -1,6 +1,6 @@
 # Deliverable A
 
-Using the same CORSIKA7 containers that have been tested in the first test productions, described <a href = "testprod"> here </a>, the first deliverable of the GAIAS2 consists of a set of high-statistics simulations of proton cosmic rays.
+Using the same CORSIKA7 containers that have been tested in the first test productions, described <a href = "testprod">here</a>, the first deliverable of the GAIAS2 consists of a set of high-statistics simulations of proton cosmic rays.
 
 10 energy ranges have been made available:
 
@@ -21,5 +21,5 @@ The event generation is performed according to a power-law spectrum with spectra
 
 These simulations have been performed on local servers in the G. Romano Laboratory at the Department of Physics of the University of Salerno. In total, 30 TB of disk space are used to store them. Approximately 500k HSPEC06 hours have been consumed. 
 
-All codes and containers employed for the generation of the CORSIKA events is available on <a href = "https://github.com/Gaias2-ICSC/corsikasim"> git </a>.
+All codes and containers employed for the generation of the CORSIKA events is available on <a href = "https://github.com/Gaias2-ICSC/corsikasim">github</a>.
 

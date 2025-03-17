@@ -52,4 +52,4 @@ Generation is flat in the cosine of the zenith angle
 
 #### Performance checks
 
-The results of the performance checks are available on <a href="https://github.com/Gaias2-ICSC/corsikasim/tree/main/perf"> git </a>
+The results of the performance checks are available on <a href="https://github.com/Gaias2-ICSC/corsikasim/tree/main/perf">github</a>
